@@ -1,0 +1,4 @@
+/home/nkirschall/projects/c/sockets/CMakeFiles/client.dir
+/home/nkirschall/projects/c/sockets/CMakeFiles/server.dir
+/home/nkirschall/projects/c/sockets/CMakeFiles/edit_cache.dir
+/home/nkirschall/projects/c/sockets/CMakeFiles/rebuild_cache.dir
